@@ -1,2 +1,2 @@
-# light-minded_editor
-a light-minded_editor
+# a_hilarious_editor
+a_hilarious_editor
